@@ -131,7 +131,6 @@ body {
 @media screen and (width > 800px) {
   .container {
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2, 1fr);
     margin: 0 auto;
   }
 
